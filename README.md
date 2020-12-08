@@ -1,4 +1,4 @@
 # sample
-try to learn 
-what
+try to learn ,
+what ,
 i dont know
