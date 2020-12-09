@@ -19,7 +19,7 @@ body {
 	align-items: center;
 	font-family: 'Source Code Pro', monospace;
 	background: linear-gradient(90deg, rgba(84, 150, 255, .78), rgba(135, 57, 229, .85)),
-				url(hero.jpg) center bottom;
+				url(mesh.png) center bottom;
 	background-size: cover;
 	color: #fff;
 }
